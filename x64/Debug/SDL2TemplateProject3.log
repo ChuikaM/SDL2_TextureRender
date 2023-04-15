@@ -1,4 +1,0 @@
-﻿  main.cpp
-c:\users\matvey\source\repos\sdl2lessons\sdl2templateproject3\sdl2templateproject3\main.cpp(78): warning C4715: SDL_main: значение возвращается не при всех путях выполнения
-c:\users\matvey\source\repos\sdl2lessons\sdl2templateproject3\sdl2templateproject3\main.cpp(32): warning C4715: Init: значение возвращается не при всех путях выполнения
-  SDL2TemplateProject3.vcxproj -> C:\Users\matvey\source\repos\SDL2Lessons\SDL2TemplateProject3\x64\Debug\SDL2TemplateProject3.exe
