@@ -29,7 +29,7 @@ bool Init() {
 	rect->y = 0;
 	rect->w = WIDTH;
 	rect->h = HEIGHT;
-	return true
+	return true;
 }
 bool Load() {
 	texture = IMG_LoadTexture(render,"SDL2Image.png");
